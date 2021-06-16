@@ -36,6 +36,8 @@ Note: Drag and drop is a bit more advanced than the others: it's not actually a 
 * [ ] Nest two similar events somewhere in the site and prevent the event propagation properly. Remember not all event types bubble.
 * [ ] Stop the navigation items from refreshing the page by using `preventDefault()`
 
+
+
 ### Task 3: Stretch
 
 * [ ] Go look at [GSAP](https://greensock.com/) and implement the animations found in that library with your custom events.
